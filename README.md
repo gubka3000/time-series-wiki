@@ -3,6 +3,10 @@
 ## Overview
 Analysis of monthly Wikipedia page views for *"Eyes Wide Shut"* (English) from **July 2015 to September 2025** (123 data points). The goal is to understand the underlying structure of the data, including trends, seasonality, and potential irregular patterns.
 
+<img src="images/Eyes_Wide_Shut_(1999).png" width="180"/>
+
+&nbsp;
+
 Wiki page: [Wikipedia: Eyes Wide Shut](https://en.wikipedia.org/wiki/Eyes_Wide_Shut)
 
 Data source: [Wikipedia: Eyes Wide Shut - Views](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2025-09&pages=Eyes_Wide_Shut)

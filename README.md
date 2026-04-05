@@ -5,8 +5,6 @@ Analysis of monthly Wikipedia page views for *"Eyes Wide Shut"* (English) from *
 
 <img src="images/Eyes_Wide_Shut_(1999).png" width="180"/>
 
-&nbsp;
-
 Wiki page: [Wikipedia: Eyes Wide Shut](https://en.wikipedia.org/wiki/Eyes_Wide_Shut)
 
 Data source: [Wikipedia: Eyes Wide Shut - Views](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2025-09&pages=Eyes_Wide_Shut)
